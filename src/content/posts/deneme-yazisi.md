@@ -1,6 +1,6 @@
 ---
 author: Bibliyorlar
-pubDatetime: 2026-09-28T22:00:00Z
+pubDatetime: 2026-09-28T18:00:00Z
 title: "İlk Deneme Yazısı"
 featured: true
 draft: false
