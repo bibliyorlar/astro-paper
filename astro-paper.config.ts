@@ -1,17 +1,17 @@
 import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
-  site: {
-    url: "https://blog.bibliyorlar.com/",
-    title: "Bibliyorlar",
-    description: "Bibliyorlar – teknoloji, internet, oyun, yaşam ve daha fazlası.",
-    author: "Bibliyorlar",
-    profile: "https://bibliyorlar.com",
-    ogImage: "default-og.jpg",
-    lang: "tr",
-    timezone: "Europe/Istanbul",
-    dir: "ltr",
-  },
+site: {
+  url: "https://blog.bibliyorlar.com/",
+  title: "Bibliyorlar",
+  description: "Teknoloji, internet, oyun, yaşam ve daha fazlası.",
+  author: "Bibliyorlar",
+  profile: "https://bibliyorlar.com",
+  ogImage: "default-og.jpg",
+  lang: "tr",
+  timezone: "Europe/Istanbul",
+  dir: "ltr",
+},
 
   posts: {
     perPage: 4,
